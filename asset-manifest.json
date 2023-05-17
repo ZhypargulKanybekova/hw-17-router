@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/hw-17-router/static/css/main.073c9b0a.css",
+    "main.js": "/hw-17-router/static/js/main.53a1dca9.js",
+    "index.html": "/hw-17-router/index.html",
+    "main.073c9b0a.css.map": "/hw-17-router/static/css/main.073c9b0a.css.map",
+    "main.53a1dca9.js.map": "/hw-17-router/static/js/main.53a1dca9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.53a1dca9.js"
+  ]
+}
